@@ -12,21 +12,21 @@
 |4  | [What are the main components of the RPA Blue Prism?](#what-are-the-main-components-of-the-rpa-blue-prism) |
 |5  | [What is the role of VBO in Blue Prism?](#what-is-the-role-of-vbo-in-blue-prism) |
 |6  | [What are the types of security options available in the Blue Prism tool?](#what-are-the-types-of-security-options-available-in-the-blue-prism-tool) |
-|7  | [Define these terms: IPA, PDD, FRQ, SDD, OID, PDI, and ODI.](#define-these-terms:-ipa,-pdd,-frq,-sdd,-oid,-pdi,-and-odi.) |
+|7  | [Define these terms: IPA, PDD, FRQ, SDD, OID, PDI, and ODI.](#define-these-terms-ipa-pdd-frq-sdd-oid-pdi-and-odi) |
 |8  | [Explain work queues in the context of RPA Blue Prism](#explain-work-queues-in-the-context-of-rpa-blue-prism) |
 |9  | [How can we configure priorities for work queues?](#how-can-we-configure-priorities-for-work-queues) |
 |10  | [Why do we use Tags in Blue Prism?](#why-do-we-use-tags-in-blue-prism) |
-|11  | [Define Application Modeller.](#define-application-modeller.) |
+|11  | [Define Application Modeller.](#define-application-modeller) |
 |12  | [What is the role of the Attach option in Blue Prism?](#what-is-the-role-of-the-attach-option-in-blue-prism) |
 |13  | [What is defined by dynamic match type?](#what-is-defined-by-dynamic-match-type) |
-|14  | [Why do we use the 'Preserve' checkbox option in Blue Prism?](#why-do-we-use-the-'preserve'-checkbox-option-in-blue-prism) |
+|14  | [Why do we use the 'Preserve' checkbox option in Blue Prism?](#why-do-we-use-the-preserve-checkbox-option-in-blue-prism) |
 |15  | [How can we stop a process that is running in the Control Room?](#how-can-we-stop-a-process-that-is-running-in-the-control-room) |
 |16  | [Why do we use the Wait stage in Blue Prism?](#why-do-we-use-the-wait-stage-in-blue-prism) |
-|17  | [Explain Control Room.](#explain-control-room.) |
+|17  | [Explain Control Room.](#explain-control-room) |
 |18  | [What is the main difference between Match Index and Match Reverse options in Blue Prism?](#what-is-the-main-difference-between-match-index-and-match-reverse-options-in-blue-prism) |
-|19  | [Explain the connector and its types in the context of Blue Prism.](#explain-the-connector-and-its-types-in-the-context-of-blue-prism.) |
+|19  | [Explain the connector and its types in the context of Blue Prism.](#explain-the-connector-and-its-types-in-the-context-of-blue-prism) |
 |20  | [What is meant by the Recover stage in Blue Prism?](#what-is-meant-by-the-recover-stage-in-blue-prism) |
-|21  | [Define System Unavailable Exception and Mark Exception.](#define-system-unavailable-exception-and-mark-exception.) |
+|21  | [Define System Unavailable Exception and Mark Exception.](#define-system-unavailable-exception-and-mark-exception) |
 |22  | [What are the modes for object spying in Blue Prism?](#what-are-the-modes-for-object-spying-in-blue-prism) |
 |23  | [What is Blue Prism Architecture?](#what-is-blue-prism-architecture) |
 
