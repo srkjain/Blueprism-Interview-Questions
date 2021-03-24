@@ -7,7 +7,8 @@
 | No. | Questions |
 | --- | --------- |
 |1  | [What is Blue Prism?](#what-is-blue-prism) |
-|2  | [What are the major features of Blue Prism?](#what-are-the-major-features-of-blue-prism) |
+|2  | [What does RPA stand for?](#what-does-rpa-stand-for) |
+|3  | [What are the major features of Blue Prism?](#what-are-the-major-features-of-blue-prism) |
 
    
 1. ### What is Blue Prism?
@@ -16,6 +17,26 @@ Blue Prism is one of the leading software development companies in the automatio
 
 The Blue Prism tool is primarily designed to create software robots (also called bots). These software robots are nothing but a set of pre-defined commands that help automate rule-based, repetitive tasks, and eliminate or reduce humans work.
 
+RPA is the short form of "Robotic Process Automation". RPA is a special kind of automation technique in which software robots perform a human's tasks. These tasks generally include repetitive, rule-based, and manual processes. The technique helps organizations automate their digital processes across various applications and systems without changing the existing systems or IT infrastructure.
 
+Robotic: Set of codes that acts like a robot and mimic human actions.
 
+Process: Sequence of steps that creates a meaningful activity is known as the process.
+
+Automation: The process performed by software robots without human interaction.
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+1. ### What does RPA stand for?
+
+RPA is the short form of *Robotic Process Automation*. RPA is a special kind of automation technique in which software robots perform a human's tasks. These tasks generally include repetitive, rule-based, and manual processes. The technique helps organizations automate their digital processes across various applications and systems without changing the existing systems or IT infrastructure.
+
+*Robotic:* Set of codes that acts like a robot and mimic human actions.
+
+*Process: Sequence of steps that creates a meaningful activity is known as the process.
+
+*Automation:* The process performed by software robots without human interaction.
+
+   ![vRPA1](images/Blue Prism Architecture.png)
+		
    **[⬆ Back to Top](#table-of-contents)**
