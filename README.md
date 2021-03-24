@@ -12,8 +12,9 @@
    
 1. ### What is Blue Prism?
 
-Blue Prism is a UK multinational software corporation that pioneered and makes enterprise **robotic process automation (RPA)** software that provides a digital workforce designed to automate complex, end-to-end operational activities.
+Blue Prism is one of the leading software development companies in the automation area. It is a UK-based company helping organizations with one of its popular RPA tools, Blue Prism. The term RPA, which is an acronym of **'Robotic Process Automation'**, was first introduced by the Blue Prism group.
 
+The Blue Prism tool is primarily designed to create software robots (also called bots). These software robots are nothing but a set of pre-defined commands that help automate rule-based, repetitive tasks, and eliminate or reduce humans work.
 
 
 
