@@ -49,7 +49,9 @@
 	* Smart Execution
 	* Availability of Multiple Formats
 	* Multi-platform Support
-	
+
+   **[⬆ Back to Top](#table-of-contents)**
+   
 4. ### What are the main components of the RPA Blue Prism?
 
 	There are several components present in the Blue Prism tool. However, the main components are:
@@ -60,3 +62,27 @@
 	**Process Studio:** A process studio is defined as the area in the Blue Prism tool that allows developers to create process diagrams for the processes to be automated. The process studio consists of various options, such as variables, control loops, object calls, and business logic, etc. Every process created here includes the Main Page that is executed first.
 
 	**Object Studio:** To automate most business processes, organizations must establish communication with external software or applications. Since Process Studio does not allow this, Object Studio is included in Blue Prism to perform this functionality. Object Studio allows developers to create VBO (Visual Business Objects).
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+5. ### What is the role of VBO in Blue Prism?
+	
+	VBO is a short form of **"Visual Business Objects"**. These are the diagrammatic programs that can be created in Object Studio.
+
+	These visual business objects provide an interface that can interact with external applications. The interface cannot be formed by using Process Studio; it is only generated using the environment given in the Object Studio within the Blue Prism tool.
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+6. ### What are the types of security options available in the Blue Prism tool?
+
+	There are mainly three different types of security controls available in RPA Blue Prism, such as User, Credentials, and Options.
+
+	**Security Type	       Used for**
+	* **User :**	Assigning new user information.
+	* **Credentials:**	Storing secret information.
+	* **Options: **	Assigning rules for setting passwords.
+
+	Besides, Blue Prism also offers role-based access management for increased security. It is used to assign a specific role to any particular user. The user cannot perform actions other than assigned ones. Apart from this, the administrator also gets control over user activities. For example, an admin can check when a user has logged in into the Blue Prism, started or deleted process, and many other activities.
+	
+   **[⬆ Back to Top](#table-of-contents)**
+	
