@@ -120,11 +120,14 @@
 	* **PDI:** It is a short form of *'Process Design Instruction'*. It is generally defined as the blueprint to design/develop automation processes. It also contains such type of low-level information that is not added in SSD. This approach is mainly used to achieve increased clarity throughout the project.
 									
 	* **ODI:** It is a short form of *'Object Design Instruction'*. It is a blueprint that helps in the development of business objects. 
-
+	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 8. ### Explain work queues in the context of RPA Blue Prism	
 
 	Work Queues in Blue Prism are generally implemented to break large volumes of work into multiple small volumes. Additionally, it is said to be the most effective way for the deployments of bots. It is because multiple bots are implemented to decrease the overall time consumption during the separation of large volumes of work to small volumes.
 	
+   **[⬆ Back to Top](#table-of-contents)**	
 
 9. ### How can we configure priorities for work queues?
 
@@ -134,34 +137,46 @@
 	*Then, we are required to work with the existing queue item. It will set the start-priority of the created process.
 	*Once the priority of the item is added, we can repeat the same with more items. It should be noted that the item's priority is unchangeable once added to the queue.
 	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 10. ### Why do we use Tags in Blue Prism?
 
 	Tags are defined as the keywords of terms assigned to the work queue items. They are generally used when we want to retrieve the next item from the particular work queue. There is also an option to filter these items using the Tag Filter input parameter under 'Get Next item' action. Using this, we can easily retrieve the required item from the work queue in the presence or absence of any specific tag.
 	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 11. ### Define Application Modeller.
 
 	Application Modeller is defined as the embedded capability inside the Object Studio. The application modeller's primary function is to provide an environment to create application models within the Object Studio. It contains several basic configurations that help in interacting and communicating with the existing applications and UI elements. These elements are identified by Blue Prism software robots based on pre-defined attributes. The elements are further configured and updated to make them unique for every single element. The software bots can further interact with these elements and perform specified operations over them.	
 	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 12. ### What is the role of the Attach option in Blue Prism?
 
 	The Attach option in Blue Prism is primarily responsible for identifying an application that is being used. We are required to enter the appropriate value that will be used to identify the application, such as the name of a particular process or window title.
-
+	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 13. ### What is defined by dynamic match type?
 
 	The Dynamic Match Type is generally defined as the parameter that must be entered within the stages of any process. This is a mandatory input parameter and should be entered using elements. The primary purpose of a dynamic match type is to allow users to specify the value manually for an attribute from the process diagram instead of using default one from Application Modeller.
 	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 14. ### Why do we use the 'Preserve' checkbox option in Blue Prism?
 
 	The Preserve checkbox option is mainly used to disable Exception Type and Exception Details fields within the Blue Prism tool. Besides, when the Preserve checkbox option is selected, the exception is released without the requirement of any other details. That means the existing exception is thrown again. That is why we use the Preserve checkbox option in the Recovery Mode. The recovery mode resides in between the Resume stage and a Recover stage.
 
 	In case if we use the checkbox outside the recovery mode, it will provide an exception	
 	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 15. ### How can we stop a process that is running in the Control Room?
 
 	There are two main methods that we can use to stop a running process in the Control Room:
 
-	*By clicking the stop section
-	*By selecting the Process Session
+	* By clicking the stop section
+	* By selecting the Process Session
 	
 	Both the above methods help stop any running process immediately. Blue Prism mark such processes as an Exception at Clean-Up to identify that the process could not get completed.
 
@@ -171,6 +186,8 @@
 
 	**Immediate Stop:** It is used to stop a running process immediately. It acts as the first method, i.e., just like clicking on the Stop section.	
 	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 16. ### Why do we use the Wait stage in Blue Prism?
 
 	The Wait stage is used to absorb the system latency and make sure that the process is going through the correct path. Typically, the wait in the starting of any action confirms the correctness of path and results in increased process resilience. The default timeout in the Wait stage is 5 seconds. The process will wait before performing an action until the timeout that the user has specified for the Wait stage upon running the object has passed.
@@ -184,7 +201,9 @@
 	The Control Room acts like a command center that is mainly used to analyze, control, schedule, and execute automation processes to the digital workforce.
 
 	In simple words, all the components and resources are monitored and controlled with the help of the Control Room. It is a centralized administration system within the Blue Prism that provides detailed statistics of process workflow. It also enables users to monitor the startup and the working of a process via manual approach. Additionally, it helps users to measure the overall performance of processes to ensure proper working.
-
+	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 18. ### What is the main difference between Match Index and Match Reverse options in Blue Prism?
 	
 	Match Index option is used when we want to search for an element in top-to-bottom order. Besides, the Match Reverse option is used when we want to search for an element in the bottom-to-top order. Once the element is found, the search will be stopped instantly, and all the further duplicates will be ignored.
@@ -205,10 +224,14 @@
 
 	**HTML Connector:** The HTML connector is used to work with HTML, JavaScript, ActiveX controls, and other components of the browser interface.
 	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 20. ### What is meant by the Recover stage in Blue Prism?
 	
 	The Recover stage is helpful during exception-caching. It allows users to create different types of recovery sequences. Once the exception is caught, the Business object or the process is called to be in the recovery mode and indicating the live state of exception.
-
+	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 21. ### Define System Unavailable Exception and Mark Exception.
 	
 	The System Unavailable Exceptions are the exceptions that are usually found when a user is unable to launch the application. This can happen in scenarios when the application is not responding or when the application crashes. It could be a reason that these unexpected crashes were not considered in the design and development phase.
@@ -218,19 +241,24 @@
 22. ### What are the modes for object spying in Blue Prism?
 	Blue Prism has the following modes for object spying:
 
-	*WIN32 Mode
-	*Region Mode
-	*UI (User Interface) Automation Mode
-	*HTML Mode
-	*Accessibility Mode	
+	* WIN32 Mode
+	* Region Mode
+	* UI (User Interface) Automation Mode
+	* HTML Mode
+	* Accessibility Mode	
 	
+   **[⬆ Back to Top](#table-of-contents)**
+   
 23. ### What is Blue Prism Architecture?
 
 	 ![Blue Prism Architecture](images/Blue%20Prism%20Architecture.png)
 	 
-	*1- Machine for Blue Prism Database (Microsoft Sql server)
-	*1- Machine for Blue Prism Application Server (Connects to BP Database)
-	*1 or Many Development Machines(Interactive Client in BP terminology) connected Prism to Blue Application Server
-	*1 or Many Bots (Runtime resources in BP terminology) connected to Blue Prism Application Server
+	* 1 Machine for Blue Prism Database (Microsoft Sql server)
+	* 1 Machine for Blue Prism Application Server (Connects to BP Database)
+	* 1 or Many Development Machines(Interactive Client in BP terminology) connected Prism to Blue Application Server
+	* 1 or Many Bots (Runtime resources in BP terminology) connected to Blue Prism Application Server
 
 	So everything is gets stored in Blue Prism Database (process, objects , users, environment variables etc) and Application server is main component through which bots/developer machine talk to BP database 
+	
+	
+   **[⬆ Back to Top](#table-of-contents)**	
