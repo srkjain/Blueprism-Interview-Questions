@@ -21,7 +21,7 @@
 
 2. ### What does RPA stand for?
 
-	RPA is the short form of *Robotic Process Automation*. RPA is a special kind of automation technique in which software robots perform a human's tasks. These tasks generally include repetitive, rule-based, and manual processes. The technique helps organizations automate their digital processes across various applications and systems without changing the existing systems or IT infrastructure.
+	RPA is the short form of ***Robotic Process Automation***. RPA is a special kind of automation technique in which software robots perform a human's tasks. These tasks generally include repetitive, rule-based, and manual processes. The technique helps organizations automate their digital processes across various applications and systems without changing the existing systems or IT infrastructure.
 
 * **Robotic:** Set of codes that acts like a robot and mimic human actions.
 
@@ -29,6 +29,6 @@
 
 * **Automation:** The process performed by software robots without human interaction.
 
-   ![vRPA1](images/Blue Prism Architecture.png)
+  ![Blue Prism Architecture](images/RPA.png)
 	
    **[⬆ Back to Top](#table-of-contents)**
