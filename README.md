@@ -80,7 +80,7 @@
 	**Security Type	       Used for**
 	* **User :**	Assigning new user information.
 	* **Credentials:**	Storing secret information.
-	* **Options: **	Assigning rules for setting passwords.
+	* **Options:**	Assigning rules for setting passwords.
 
 	Besides, Blue Prism also offers role-based access management for increased security. It is used to assign a specific role to any particular user. The user cannot perform actions other than assigned ones. Apart from this, the administrator also gets control over user activities. For example, an admin can check when a user has logged in into the Blue Prism, started or deleted process, and many other activities.
 	
