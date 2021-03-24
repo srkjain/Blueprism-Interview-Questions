@@ -9,6 +9,7 @@
 |1  | [What is Blue Prism?](#what-is-blue-prism) |
 |2  | [What does RPA stand for?](#what-does-rpa-stand-for) |
 |3  | [What are the major features of Blue Prism?](#what-are-the-major-features-of-blue-prism) |
+|4  | [What are the main components of the RPA Blue Prism?](#what-are-the-main-components-of-the-rpa-blue-prism) |
 
    
 1. ### What is Blue Prism?
@@ -32,3 +33,30 @@
   ![Blue Prism Architecture](images/RPA.png)
 	
    **[⬆ Back to Top](#table-of-contents)**
+
+3. ### What are the major features of Blue Prism?
+
+	The main features of RPA Blue Prism are listed below:
+
+	* Robust
+	* Accurate
+	* Secure
+	* Scalable and Resilient
+	* Consistent
+	* Powerful Analytics
+	* Data Abstraction with Security
+	* Cloud Support
+	* Smart Execution
+	* Availability of Multiple Formats
+	* Multi-platform Support
+	
+4. ### What are the main components of the RPA Blue Prism?
+
+	There are several components present in the Blue Prism tool. However, the main components are:
+
+	* Process Studio
+	* Object Studio
+	
+	**Process Studio:** A process studio is defined as the area in the Blue Prism tool that allows developers to create process diagrams for the processes to be automated. The process studio consists of various options, such as variables, control loops, object calls, and business logic, etc. Every process created here includes the Main Page that is executed first.
+
+	**Object Studio:** To automate most business processes, organizations must establish communication with external software or applications. Since Process Studio does not allow this, Object Studio is included in Blue Prism to perform this functionality. Object Studio allows developers to create VBO (Visual Business Objects).
